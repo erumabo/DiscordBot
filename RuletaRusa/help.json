@@ -1,0 +1,24 @@
+{ "embed" :
+  {
+    "color": 11648530,
+    "title" : "Comandos Disponibles: (Prefijo actual: `R.`||`r.`)",
+    "fields": [
+      {
+        "name": "join",
+        "value": "Unirse a la lista de juegadores para el próximo juego."
+      },
+      {
+        "name": "start",
+        "value": "Inicia el juego con los jugadores en la lista."
+      },
+      {
+        "name": "shoot",
+        "value": "Si el jugador tiene la pistola dispara, si no se informa del error."
+      },
+      {
+        "name": "help",
+        "value": "Muestra esta ayuda."
+      }
+    ]
+  }
+}

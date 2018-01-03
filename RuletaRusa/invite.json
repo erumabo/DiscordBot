@@ -1,0 +1,7 @@
+{ "embed" :
+  {
+    "color": 11648530,
+    "title" : "Invitame:",
+    "description" : "Si quieres invitarme a tu server haz [click aquí](https://discordapp.com/api/oauth2/authorize?client_id=396772706458140672&scope=bot&permissions=268696640)"
+    }
+}
